@@ -1,10 +1,10 @@
 # lab-4
 ## Latihan 1
-![Gambar1]
+![Gambar1](Latihan/Gambar/Gambar1.png)
 
 **Code:**
 
-![Gambar2]
+![Gambar2](Latihan/Gambar/Gambar2.png)
 
 **Penjelasan:**
 * ``a = [10, 12, 14, 16, 18] `` list a dengan 5 elemen
@@ -26,14 +26,14 @@ tambah elemen list
 
 **Output:**
 
-![Gambar3]
+![Gambar3](Latihan/Gambar/Gambar3.png)
 
 ## Tugas Praktikum 4
-![Gambar4]
+![Gambar4](TugasPraktikum/Gambar/Gambar4.png)
 
 **Code:**
 
-![Gambar5]
+![Gambar5](TugasPraktikum/Gambar/Gambar5.png)
 
 **Penjelasan:**
 * ``data = []`` Membuat list kosong yang nanti akan di isi
@@ -44,10 +44,9 @@ tambah elemen list
 
 **Output:**
 
-![Gambar6]
+![Gambar6](TugasPraktikum/Gambar/Gambar6.png)
 
 **Flowchart:**
 
-<div align="center">
-![Gambar7]
+![Gambar7](TugasPraktikum/Gambar/Gambar7.png)
 </p>
