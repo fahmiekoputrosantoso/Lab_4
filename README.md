@@ -4,7 +4,7 @@
 
 **Code:**
 
-![Gambar2](Latihan/Gambar/Gambar2.png)
+![Gambar2](Latihan/Gambar/Gambar2.PNG)
 
 **Penjelasan:**
 * ``a = [10, 12, 14, 16, 18] `` list a dengan 5 elemen
@@ -26,14 +26,14 @@ tambah elemen list
 
 **Output:**
 
-![Gambar3](Latihan/Gambar/Gambar3.png)
+![Gambar3](Latihan/Gambar/Gambar3.PNG)
 
 ## Tugas Praktikum 4
 ![Gambar4](TugasPraktikum/Gambar/Gambar4.png)
 
 **Code:**
 
-![Gambar5](TugasPraktikum/Gambar/Gambar5.png)
+![Gambar5](TugasPraktikum/Gambar/Gambar5.PNG)
 
 **Penjelasan:**
 * ``data = []`` Membuat list kosong yang nanti akan di isi
@@ -44,7 +44,7 @@ tambah elemen list
 
 **Output:**
 
-![Gambar6](TugasPraktikum/Gambar/Gambar6.png)
+![Gambar6](TugasPraktikum/Gambar/Gambar6.PNG)
 
 **Flowchart:**
 
